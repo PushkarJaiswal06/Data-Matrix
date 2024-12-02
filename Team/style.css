@@ -243,19 +243,19 @@ font-size: 55px;}
 
 }
 .member .img1{
-background-image: url(/Team/team/pj1.jpg);
+background-image: url(./team/pj1.jpg);
 background-size: cover;
 }
 .member .img2{
-    background-image: url(/Team/team/anurag.jpg);
+    background-image: url(./team/anurag.jpg);
 }
 .member .img3{
-    background-image: url(/Team/team/saksham.jpg);
+    background-image: url(./team/saksham.jpg);
     background-size: cover;
 
 }
 .member .img4{
-    background-image: url(/Team/team/alokit.jpg);
+    background-image: url(./team/alokit.jpg);
     background-size: cover;
 
 }
