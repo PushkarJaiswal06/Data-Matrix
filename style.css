@@ -151,7 +151,7 @@ header nav{
 
 /* Hero Section */
 .hero {
-    background: url('/Landing page/Landing page/banner.jpg') center/cover no-repeat;
+    background: url('./Landing page/banner.jpg') center/cover no-repeat;
     height: 100vh;
     display: flex;
     justify-content: center;

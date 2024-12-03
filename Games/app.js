@@ -56,10 +56,10 @@ document.querySelectorAll(".reveal").forEach(function (elem) {
     "./Games/fortnite.jpg",
     "./Games/genshinimpact.jpg",
     "./Games/cod.avif",
-    "./Games/cyberpunk.jpg",
-    "./Games/assa.jpg",
+    "https://wallpapercave.com/wp/wp4411635.jpg",
+    "https://www.gvme.org/pages/get_image_large.php?id=1551",
     "./Games/forza.png",
-    "./Games/218.jpg",
+    "https://wallpapercave.com/wp/wp12953975.jpg",
     
   ];
   
