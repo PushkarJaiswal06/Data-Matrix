@@ -52,15 +52,14 @@ document.querySelectorAll(".reveal").forEach(function (elem) {
   // <--------------------landing page --------------->
   let imgObject = [
   "./sports/ipl.jpg",
-  "./sports/laliga.jpg",
-  "./sports/mlb.jpg",
-  "./sports/bbl.jpg",
-  "./sports/world_chesss_championship.jpg",
-
-  "./sports/nba.jpg",
-  "./sports/pkl.jpg",
-  "./sports/premere_league.jpg",
-  "./sports/ufc.jpg",
+  "https://wallpapers.com/images/featured/la-liga-0aro8g4lgynmd197.jpg",
+  "https://wallpapers.com/images/featured/mlb-baseball-league-7mkvscut7kdjdnrd.jpg",
+  "https://glaws.in/wp-content/uploads/2018/12/6.-Dream11-Becomes-Official-Fantasy-Game-Partner-of-Australian-Big-Bash-League-1280x720.png",
+  "https://thechessdrum.net/blog/wp-content/uploads/2024/11/Ding-Gukesh.png",
+  "https://media.sketchfab.com/models/24c50b8aace1421da1fd7b682c818180/thumbnails/003034192b2f474aa911898aee1bb5bb/4ea18c2d023d48e19d2f79eab875505c.jpeg",
+  "https://www.prokabaddi.com/static-assets/waf-images/32/18/55/16-9/pkllogodec14.jpg",
+  "https://i.pinimg.com/originals/c7/08/8d/c7088df551317fb2915a5f15f10ae8ee.jpg",
+  "https://wallpaperaccess.com/full/2241951.png",
   ];
   
   let mainImg = 0;
