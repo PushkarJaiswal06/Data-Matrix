@@ -151,13 +151,13 @@ header nav{
 
 /* Hero Section */
 .hero {
-    background: url('/Landing page/Landing page/banner.jpg') center/cover no-repeat;
+    background: url('./Landing page/banner.jpg') center/cover no-repeat;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: rgb(226, 226, 226);
 }
 
 .hero-content h1 {
@@ -445,7 +445,7 @@ nav ul li a:hover {
 .about-us a {
     color: white;
     text-decoration: none;
-    font-size: 28px;
+    font-size: 20px;
 
     font-weight: bold;
     text-transform: uppercase;

@@ -55,7 +55,7 @@ document.querySelectorAll(".reveal").forEach(function (elem) {
     "https://i.ytimg.com/vi/MJoOKavNBJY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwMg_eLM8oMSpt5JzAcVZJy5BhAg",
     "https://c.files.bbci.co.uk/1260/production/_108240740_beatles-abbeyroad-index-reuters-applecorps.jpg",
     "https://m.media-amazon.com/images/M/MV5BZjBmMDMwNzItN2I3My00MzcxLTlkMzktM2JkNjRmYmU5MTgwXkEyXkFqcGc@._V1_.jpg",
-    "https://i.ytimg.com/vi/3vrprEaZu1E/mqdefault.jpg",
+    "https://i.ytimg.com/vi/1lJtxnRYKWk/maxresdefault.jpg",
     "https://static.toiimg.com/thumb/msid-112518044,width-1280,height-720,resizemode-4/112518044.jpg",
     "https://cdn.wrytin.com/images/wrytup/r/1024/choo-lo-jgpjcq42.jpeg",
     "https://rukminim2.flixcart.com/image/850/1000/poster/d/g/p/athah-psy-gangnam-style-fine-quality-poster-athdwhumor134-medium-original-imaegvt3qxsy6maf.jpeg?q=90&crop=false",

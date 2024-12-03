@@ -52,7 +52,7 @@ document.querySelectorAll(".reveal").forEach(function (elem) {
   // <--------------------landing page --------------->
   let imgObject = [
   "./Anime/COWBOY_BEBOP.jpg",
-  "./Anime/ATTACK_ON_TITAN.jpg",
+  "https://baylorlariat.com/wp-content/uploads/2022/04/attack-on-titan.jpeg",
   "./Anime/DANDADAN.jpg",
   "./Anime/DEATH_NOTE.jpg",
   "./Anime/JUJUTSU_KAISEN.jpg",
